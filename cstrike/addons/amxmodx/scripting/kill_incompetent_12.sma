@@ -1,7 +1,7 @@
 /*
 * Kill Incompetent Ver1.2
 * by p00h
-* http://p00h.web.infoseek.co.jp
+* http://p00h.web.infoseek.co.jp <= DEAD URL.
 */
 
 #include <amxmodx>
